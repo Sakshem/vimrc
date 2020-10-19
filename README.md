@@ -1,0 +1,2 @@
+# vimrc
+Here's my .vimrc file, it's pretty basic but effective, have auto pairs, tabstop, and combination of relative number and number. If you are in command mode it will show you relative number so it's easy to travel through your code and once you are in insert mode it shows you number so that you know exactly which line you are in and the relative numbers are gone (till you are in insert mode) 
